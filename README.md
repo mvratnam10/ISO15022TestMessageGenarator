@@ -3,8 +3,9 @@ Tool to produce test data to test a system that process ISO5022 Messages.
 
 This Tool is written in Pyton.
 
-This tool takes two inputs files 
+This tool takes following inputs files 
         Marter Data for the testing in One  file.
+		Calander containing working days of the system to be tested
         Input Message templates
         Expected OutputMessage templates
         
